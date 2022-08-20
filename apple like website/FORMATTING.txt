@@ -1,0 +1,8 @@
+<HTML>
+<HEAD>
+<TITLE>Font</TITLE>
+</HEAD>
+</BODY>
+<font face="arial black">qwert</font>
+</BODY>
+</HTML>	
